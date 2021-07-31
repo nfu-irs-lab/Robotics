@@ -35,7 +35,7 @@ project/
 
 ```python
 from robotics.concrete.command import RoboticsCommandFactory
-from robotics.framework import CSVAction, Action
+from robotics.framework.action import CSVAction, Action
 from robotics.concrete.robot import RoboticsRobot
 
 
